@@ -60,7 +60,7 @@ No fixed width or height is used to ensure better responsiveness across devices.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/akshitp1115/responsive-regiser-login-form.git
+   git clone https://github.com/akshitpatel1115/responsive-login-register-form.git
    ```
 
 2. Open the project folder
